@@ -74,6 +74,36 @@ h1 {
     transform: translateX(230px);
 }
 
+.section2 {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.info {
+    max-width: 100px;
+}
+
+.section2 img {
+    width: 120px;
+    height: 120px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.text {
+    text-align: left;
+}
+
+.section3 h2 {
+    margin-top: 40px;
+}
+
 .footer {
     display: flex;
     height: 50px;
