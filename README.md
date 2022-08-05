@@ -5,12 +5,12 @@ This is a project to showcase what I have learnt so far in the course and to all
 
 To Do List
 
-~~- Create Index.html and Styles.css - Done~~
-~~- Complete Header - Done~~
-~~- Complete Section 1 - Done~~
-~~- Complete Section 2 - Done~~
-~~- Complete Section 3~~
-~~- Complete Section 4~~
-~~- Complete Footer~~
-~~- Complete landing page project~~
-~~- Figure out how to do checkboxes or strikethroughs for readme~~
+-~~- Create Index.html and Styles.css - Done~~
+-~~- Complete Header - Done~~
+-~~- Complete Section 1 - Done~~
+-~~- Complete Section 2 - Done~~
+-~~- Complete Section 3~~
+-~~- Complete Section 4~~
+-~~- Complete Footer~~
+-~~- Complete landing page project~~
+-~~- Figure out how to do checkboxes or strikethroughs for readme~~
