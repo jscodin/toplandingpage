@@ -5,7 +5,7 @@ This is a project to showcase what I have learnt so far in the course and to all
 
 To Do List
 
-- Create Index.html and Styles.css - Done
+~~- Create Index.html and Styles.css - Done~~
 - Complete Header - Done
 - Complete Section 1 - Done
 - Complete Section 2 - Done
